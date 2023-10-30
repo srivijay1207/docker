@@ -1,0 +1,4 @@
+FROM almalinux:8
+ENV NAME=SIVAK /
+    AGE=34 /
+    ADDRESS=NCJWVNAKJ
